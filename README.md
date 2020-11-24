@@ -33,6 +33,5 @@ MinecraftのSpigot/BungeeCordプラグインを開発しています。
     - [HanbunBreaker-CraftBukkit](https://github.com/amata1219/HanbunBreaker-CraftBukkit)
   - [MoyashiGunsNetwork](https://twitter.com/intent/user?screen_name=MasMoyashi)
     - [InfinityDurability](https://github.com/amata1219/InfinityDurability)
-    <br/>
-- 個人依頼
-  - [CustomID](https://github.com/amata1219/CustomID)
+  - その他個人サーバー
+    - [CustomID](https://github.com/amata1219/CustomID)
