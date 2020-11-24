@@ -26,6 +26,7 @@ MinecraftのSpigot/BungeeCordプラグインを開発しています。
     - [ItemFrameInvisiblizer](https://github.com/amata1219/ItemFrameInvisiblizer)
   - [ちゃぶだいさ～ば～](https://minecraft.jp/servers/chabudai.xyz)
     - [TinyTimer](https://github.com/amata1219/TinyTimer)
+    - [SpawnPointFixer](https://github.com/amata1219/SpawnPointFixer)
   - はやな鯖
     - [HanbunBreaker-CraftBukkit](https://github.com/amata1219/HanbunBreaker-CraftBukkit)
   - [MoyashiGunsNetwork](https://twitter.com/intent/user?screen_name=MasMoyashi)
