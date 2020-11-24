@@ -17,6 +17,7 @@ MinecraftのSpigot/BungeeCordプラグインを開発しています。
     - [LGWAssist](https://github.com/amata1219/LGWAssist)
 - プラグイン提供サーバー
   - [まんまみーや](https://minecraft.jp/servers/manmamiya.work:14400)
+    - [WorldSystem](https://github.com/amata1219/WorldSystem)
     - [MamiyaAssist](https://github.com/amata1219/MamiyaAssist)
     - [MamiyaChat](https://github.com/amata1219/MamiyaChat)
   - [KotaServer(こた鯖)](https://minecraft.jp/servers/mc.kotaserver.net)
@@ -27,3 +28,5 @@ MinecraftのSpigot/BungeeCordプラグインを開発しています。
     - [TinyTimer](https://github.com/amata1219/TinyTimer)
   - はやな鯖
     - [HanbunBreaker-CraftBukkit](https://github.com/amata1219/HanbunBreaker-CraftBukkit)
+  - [MoyashiGunsNetwork](https://twitter.com/intent/user?screen_name=MasMoyashi)
+    - [InfinityDurability](https://github.com/amata1219/InfinityDurability)
