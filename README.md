@@ -8,6 +8,7 @@ MinecraftのSpigot/BungeeCordプラグインを開発しています。
     - [HyperingEconomyGUI](https://github.com/amata1219/HyperingEconomyGUI)
     - [HyperingEconomyExtender](https://github.com/amata1219/HyperingEconomyExtender)
     - [HogochiByebye](https://github.com/amata1219/HogochiByebye)
+    - [CollectorHands](https://github.com/amata1219/CollectorHands)
     - [Parkour](https://github.com/amata1219/Parkour)
     - [TemporaryBoat](https://github.com/AzisabaNetwork/TemporaryBoat)
     - [MountingPhantomCanceler](https://github.com/AzisabaNetwork/MountingPhantomCanceler)
