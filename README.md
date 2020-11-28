@@ -18,6 +18,8 @@ MinecraftのSpigot/BungeeCordプラグインを開発しています。
     - [LGWAssist](https://github.com/amata1219/LGWAssist)
     <br/>
 - プラグイン提供サーバー
+  - [こころ軽やか！](https://minecraft.jp/servers/caloyaka.ddo.jp)
+    - [WorldSystem](https://github.com/amata1219/WorldSystem)
   - [まんまみーや](https://minecraft.jp/servers/manmamiya.work:14400)
     - [WorldSystem](https://github.com/amata1219/WorldSystem)
     - [MamiyaAssist](https://github.com/amata1219/MamiyaAssist)
@@ -29,10 +31,9 @@ MinecraftのSpigot/BungeeCordプラグインを開発しています。
     - [ItemFrameInvisiblizer](https://github.com/amata1219/ItemFrameInvisiblizer)
   - [ちゃぶだいさ～ば～](https://minecraft.jp/servers/chabudai.xyz)
     - [TinyTimer](https://github.com/amata1219/TinyTimer)
-    - [SpawnPointFixer](https://github.com/amata1219/SpawnPointFixer)
   - [朱サバ](https://minecraft.jp/servers/5382f96f4ddda109d00041a8)
-    - [HanbunBreaker](https://github.com/amata1219/HanbunBreaker)
     - [Like](https://github.com/amata1219/Like)
+    - [HanbunBreaker](https://github.com/amata1219/HanbunBreaker)
   - [MoyashiGunsNetwork](https://twitter.com/intent/user?screen_name=MasMoyashi)
     - [InfinityDurability](https://github.com/amata1219/InfinityDurability)
   - その他個人サーバー
