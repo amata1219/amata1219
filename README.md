@@ -14,6 +14,7 @@ MinecraftのSpigot/BungeeCordプラグインを開発しています。
     - [MountingPhantomCanceler](https://github.com/AzisabaNetwork/MountingPhantomCanceler)
     - [RedisPluginMessages](https://github.com/amata1219/RedisPluginMessages)
     - [Ressentiment](https://github.com/AzisabaNetwork/Ressentiment)
+    - [Walkure](https://github.com/amata1219/Walkure)
   - [LeonGunWar](https://minecraft.jp/servers/leongunwar.ddo.jp) (2018/07 ~ 08)
     - [LGWAssist](https://github.com/amata1219/LGWAssist)
     <br/>
