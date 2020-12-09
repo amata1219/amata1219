@@ -1,4 +1,4 @@
-MinecraftのSpigot/BungeeCordプラグインを開発しています。<br>
+MinecraftのSpigot/BungeeCordプラグインを製作しています。<br>
 デザイン関連の実績は[別リポジトリ](https://github.com/amata1219/design/blob/main/README.md)に記載しています。
 
 ### 実績
