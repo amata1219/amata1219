@@ -1,5 +1,4 @@
 MinecraftのSpigot/BungeeCordプラグインを製作しています。<br>
-デザイン関連の実績は[別リポジトリ](https://github.com/amata1219/design/blob/main/README.md)に記載しています。
 
 ### 実績
 - 所属サーバー
@@ -42,3 +41,5 @@ MinecraftのSpigot/BungeeCordプラグインを製作しています。<br>
   - その他個人サーバー
     - [HanbunBreaker-CraftBukkit](https://github.com/amata1219/HanbunBreaker-CraftBukkit)
     - [CustomID](https://github.com/amata1219/CustomID)
+
+デザイン関連の実績は[別リポジトリ](https://github.com/amata1219/design/blob/main/README.md)に記載しています。
