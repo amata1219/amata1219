@@ -26,6 +26,7 @@ MinecraftのSpigot/BungeeCordプラグインを製作しています。<br>
   - [まんまみーや](https://minecraft.jp/servers/manmamiya.work:14400)
     - [WorldSystem](https://github.com/amata1219/WorldSystem)
     - [MamiyaAssist](https://github.com/amata1219/MamiyaAssist)
+    - [CustomVersionName](https://github.com/amata1219/CustomVersionName)
     - [MamiyaChat](https://github.com/amata1219/MamiyaChat)
   - [KotaServer(こた鯖)](https://minecraft.jp/servers/mc.kotaserver.net)
     - [Like](https://github.com/amata1219/Like)
