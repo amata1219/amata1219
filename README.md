@@ -43,3 +43,4 @@ MinecraftのSpigot/BungeeCordプラグインを製作しています。<br>
   - そのほか個人サーバー
     - [HanbunBreaker-CraftBukkit](https://github.com/amata1219/HanbunBreaker-CraftBukkit)
     - [CustomID](https://github.com/amata1219/CustomID)
+    - [CustomSpawn](https://github.com/amata1219/CustomSpawn)
