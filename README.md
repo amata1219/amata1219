@@ -42,6 +42,7 @@ MinecraftのSpigot/BungeeCordプラグインを製作しています。<br>
     - [InfinityDurability](https://github.com/amata1219/InfinityDurability)
   - そのほか個人サーバー
     - [CancelMan](https://github.com/amata1219/CancelMan)
+    - [CancelDrop](https://github.com/amata1219/CancelDrop)
     - [CantUse](https://github.com/amata1219/CantUse)
     - [CustomSpawn](https://github.com/amata1219/CustomSpawn)
     - [HanbunBreaker-CraftBukkit](https://github.com/amata1219/HanbunBreaker-CraftBukkit)
