@@ -46,6 +46,7 @@ MinecraftのSpigot/BungeeCordプラグインを製作しています。<br>
     - [CancelDrop](https://github.com/amata1219/CancelDrop)
     - [CancelMan](https://github.com/amata1219/CancelMan)
     - [CantUse](https://github.com/amata1219/CantUse)
+    - [AutoMessage](https://github.com/amata1219/AutoMessage)
     - [CustomSpawn](https://github.com/amata1219/CustomSpawn)
     - [HanbunBreaker-CraftBukkit](https://github.com/amata1219/HanbunBreaker-CraftBukkit)
     - [CustomID](https://github.com/amata1219/CustomID)
