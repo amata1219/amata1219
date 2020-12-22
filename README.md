@@ -6,6 +6,7 @@ MinecraftのSpigot/BungeeCordプラグインを製作しています。<br>
   - [アジ鯖](https://minecraft.jp/servers/azisaba.net) (2018/08 ~ 2019/01, 2019/06 ~ 2019/10, 2020/06 ~)
     - [KerisuteGomen](https://github.com/amata1219/KerisuteGomen)
     - [HyperingEconomy](https://github.com/amata1219/HyperingEconomy)
+    - [AdvancementAPI](https://github.com/amata1219/AdvancementAPI)
     - [HyperingEconomyGUI](https://github.com/amata1219/HyperingEconomyGUI)
     - [HyperingEconomyExtender](https://github.com/amata1219/HyperingEconomyExtender)
     - [HogochiByebye](https://github.com/amata1219/HogochiByebye)
