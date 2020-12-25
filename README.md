@@ -3,6 +3,7 @@ MinecraftのSpigot/BungeeCordプラグインを製作しています。
 #### 実績
 - 所属サーバー
   - [アジ鯖](https://minecraft.jp/servers/azisaba.net) (2018/08 ~ 2019/01, 2019/06 ~ 2019/10, 2020/06 ~)
+    - [LGWAssist](https://github.com/amata1219/LGWAssist)
     - [KerisuteGomen](https://github.com/amata1219/KerisuteGomen)
     - [Broadcast](https://github.com/amata1219/Broadcast)
     - [HyperingEconomy](https://github.com/amata1219/HyperingEconomy)
