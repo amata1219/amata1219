@@ -19,6 +19,7 @@ MinecraftのSpigot/BungeeCordプラグインを製作しています。
     - [Ressentiment](https://github.com/amata1219/Ressentiment)
     - [Walkure](https://github.com/amata1219/Walkure)
     - [CraftGuard](https://github.com/amata1219/CraftGuard)
+    - [TabCustomizer](https://github.com/amata1219/TabCustomizer)
   - [LeonGunWar](https://minecraft.jp/servers/leongunwar.ddo.jp) (2018/07 ~ 08)
     - [LGWAssist](https://github.com/amata1219/LGWAssist)
     <br/>
