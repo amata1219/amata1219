@@ -8,7 +8,6 @@ MinecraftのSpigot/BungeeCordプラグインを製作しています。
       - [KerisuteGomen](https://github.com/amata1219/KerisuteGomen)
     - Main (生活サーバー)
       - [HyperingEconomy](https://github.com/amata1219/HyperingEconomy)
-      - [AdvancementAPI](https://github.com/amata1219/AdvancementAPI)
       - [HyperingEconomyGUI](https://github.com/amata1219/HyperingEconomyGUI)
       - [HyperingEconomyExtender](https://github.com/amata1219/HyperingEconomyExtender)
       - [HogochiByebye](https://github.com/amata1219/HogochiByebye)
