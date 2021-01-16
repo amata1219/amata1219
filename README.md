@@ -1,33 +1,6 @@
 MinecraftのSpigot/BungeeCordプラグインを製作しています。
 
 #### 実績
-- 所属サーバー
-  - [アジ鯖](https://minecraft.jp/servers/azisaba.net) (2018/08 ~ 2019/01, 2019/06 ~ 2019/10, 2020/06 ~)
-    - LeonGunWar (銃火器PvPサーバー)
-      - [LGWAssist](https://github.com/amata1219/LGWAssist)
-      - [KerisuteGomen](https://github.com/amata1219/KerisuteGomen)
-    - Main (生活サーバー)
-      - [HyperingEconomy](https://github.com/amata1219/HyperingEconomy)
-      - [HyperingEconomyGUI](https://github.com/amata1219/HyperingEconomyGUI)
-      - [HyperingEconomyExtender](https://github.com/amata1219/HyperingEconomyExtender)
-      - [HogochiByebye](https://github.com/amata1219/HogochiByebye)
-      - [CollectorHands](https://github.com/amata1219/CollectorHands)
-    - Rise (アスレチックサーバー)
-      - [Parkour](https://github.com/amata1219/Parkour)
-    - Life (生活サーバー)
-      - [TemporaryBoat](https://github.com/amata1219/TemporaryBoat)
-      - [MountingPhantomCanceler](https://github.com/amata1219/MountingPhantomCanceler)
-      - [RedisPluginMessages](https://github.com/amata1219/RedisPluginMessages)
-      - [Ressentiment](https://github.com/amata1219/Ressentiment)
-    - Lobby (ロビーサーバー)
-      - [Walkure](https://github.com/amata1219/Walkure)
-    - BungeeCord
-      - [Broadcast](https://github.com/amata1219/Broadcast)
-    - プラグイン製作講座
-      - [TabCustomizer](https://github.com/amata1219/TabCustomizer)
-  - [LeonGunWar](https://minecraft.jp/servers/leongunwar.ddo.jp) (2018/07 ~ 08)
-    - [LGWAssist](https://github.com/amata1219/LGWAssist)
-    <br/>
 - プラグイン提供サーバー
   - [こころ軽やか！](https://minecraft.jp/servers/caloyaka.ddo.jp)
     - [WorldSystem](https://github.com/amata1219/WorldSystem)
@@ -56,3 +29,30 @@ MinecraftのSpigot/BungeeCordプラグインを製作しています。
     - [CustomSpawn](https://github.com/amata1219/CustomSpawn)
     - [HanbunBreaker-CraftBukkit](https://github.com/amata1219/HanbunBreaker-CraftBukkit)
     - [CustomID](https://github.com/amata1219/CustomID)
+    <br/>
+- 所属サーバー
+  - [アジ鯖](https://minecraft.jp/servers/azisaba.net) (2018/08 ~ 2019/01, 2019/06 ~ 2019/10, 2020/06 ~)
+    - LeonGunWar (銃火器PvPサーバー)
+      - [LGWAssist](https://github.com/amata1219/LGWAssist)
+      - [KerisuteGomen](https://github.com/amata1219/KerisuteGomen)
+    - Main (生活サーバー)
+      - [HyperingEconomy](https://github.com/amata1219/HyperingEconomy)
+      - [HyperingEconomyGUI](https://github.com/amata1219/HyperingEconomyGUI)
+      - [HyperingEconomyExtender](https://github.com/amata1219/HyperingEconomyExtender)
+      - [HogochiByebye](https://github.com/amata1219/HogochiByebye)
+      - [CollectorHands](https://github.com/amata1219/CollectorHands)
+    - Rise (アスレチックサーバー)
+      - [Parkour](https://github.com/amata1219/Parkour)
+    - Life (生活サーバー)
+      - [TemporaryBoat](https://github.com/amata1219/TemporaryBoat)
+      - [MountingPhantomCanceler](https://github.com/amata1219/MountingPhantomCanceler)
+      - [RedisPluginMessages](https://github.com/amata1219/RedisPluginMessages)
+      - [Ressentiment](https://github.com/amata1219/Ressentiment)
+    - Lobby (ロビーサーバー)
+      - [Walkure](https://github.com/amata1219/Walkure)
+    - BungeeCord
+      - [Broadcast](https://github.com/amata1219/Broadcast)
+    - プラグイン製作講座
+      - [TabCustomizer](https://github.com/amata1219/TabCustomizer)
+  - [LeonGunWar](https://minecraft.jp/servers/leongunwar.ddo.jp) (2018/07 ~ 08)
+    - [LGWAssist](https://github.com/amata1219/LGWAssist)
