@@ -31,7 +31,7 @@ MinecraftのSpigot/BungeeCordプラグインを製作しています。
     - [CustomID](https://github.com/amata1219/CustomID)
     <br/>
 - 所属サーバー
-  - [アジ鯖](https://minecraft.jp/servers/azisaba.net) (2018/08 ~ 2019/01, 2019/06 ~ 2019/10, 2020/06 ~)
+  - [アジ鯖](https://minecraft.jp/servers/azisaba.net) (2018/08 ~ 2019/01, 2019/06 ~ 2019/10, 2020/06 ~ 2021/01)
     - LeonGunWar (銃火器PvPサーバー)
       - [LGWAssist](https://github.com/amata1219/LGWAssist)
       - [KerisuteGomen](https://github.com/amata1219/KerisuteGomen)
