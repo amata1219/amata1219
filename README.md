@@ -62,7 +62,7 @@ MinecraftのSpigot/BungeeCordプラグインを製作しています。
   - Fimbulwinter ([Topic](https://www.spigotmc.org/resources/fimbulwinter.89402/) / [GitHub](https://github.com/amata1219/Fimbulwinter))
   - Bryionake ([Topic](https://www.spigotmc.org/resources/bryionake.89407/) / [GitHub](https://github.com/amata1219/Bryionake))
   <br/>
-- [Minecraft非公式日本ユーザーフォーラム(閉鎖につきアーカイブの方を記載)](https://web.archive.org/web/20181018213449/http://forum.minecraftuser.jp/viewforum.php?f=38)
+- [Minecraft非公式日本ユーザーフォーラム (閉鎖につきアーカイブの方を記載)](https://web.archive.org/web/20181018213449/http://forum.minecraftuser.jp/viewforum.php?f=38)
   - LongPick+ ([Topic](https://forum.minecraftuser.xyz/viewtopic.php?f=38&t=33924) / [GitHub](https://github.com/amata1219/LongPickPlus))
   - ItemCommands+ ([Topic](https://forum.minecraftuser.xyz/viewtopic.php?f=38&t=35479) / [GitHub](https://github.com/amata1219/ItemCommandsPlus))
   - FKeyCommands ([Topic](https://forum.minecraftuser.xyz/viewtopic.php?f=38&t=35560))
