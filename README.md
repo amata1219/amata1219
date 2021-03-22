@@ -9,6 +9,7 @@ MinecraftのSpigot/BungeeCordプラグインを製作しています。
     - [MamiyaAssist](https://github.com/amata1219/MamiyaAssist)
     - [CustomVersionName](https://github.com/amata1219/CustomVersionName)
     - [MamiyaChat](https://github.com/amata1219/MamiyaChat)
+    - [MammaMia](https://github.com/amata1219/MammaMia)
   - [KotaServer(こた鯖)](https://minecraft.jp/servers/mc.kotaserver.net)
     - [Like](https://github.com/amata1219/Like)
     - [HanbunBreaker](https://github.com/amata1219/HanbunBreaker)
