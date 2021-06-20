@@ -21,6 +21,7 @@ Java歴は約5年になります。
   - [朱サバ](https://minecraft.jp/servers/5382f96f4ddda109d00041a8)
     - [Like](https://github.com/amata1219/Like)
     - [HanbunBreaker](https://github.com/amata1219/HanbunBreaker)
+    - [Lectern](https://github.com/amata1219/Lectern)
   - [MoyashiGunsNetwork](https://twitter.com/intent/user?screen_name=MasMoyashi)
     - [InfinityDurability](https://github.com/amata1219/InfinityDurability)
   - そのほか個人サーバー
