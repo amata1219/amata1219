@@ -5,7 +5,7 @@ I produce Spigot/BungeeCord plugins for Minecraft.<br>
 I have been using Java for about 6 years.
 
 #### 実績 / Past Work
-- プラグイン提供サーバー
+- プラグイン提供サーバー / The servers I provided the plugins for
   - [こころ軽やか！](https://minecraft.jp/servers/caloyaka.ddo.jp)
     - [WorldSystem](https://github.com/amata1219/WorldSystem)
   - [まんまみーや](https://minecraft.jp/servers/manmamiya.work:14400)
@@ -27,7 +27,7 @@ I have been using Java for about 6 years.
     - [Lectern](https://github.com/amata1219/Lectern)
   - [MoyashiGunsNetwork](https://twitter.com/intent/user?screen_name=MasMoyashi)
     - [InfinityDurability](https://github.com/amata1219/InfinityDurability)
-  - そのほか個人サーバー
+  - そのほか個人サーバー / Other private servers
     - [CancelDrop](https://github.com/amata1219/CancelDrop)
     - [CancelMan](https://github.com/amata1219/CancelMan)
     - [CantUse](https://github.com/amata1219/CantUse)
@@ -36,7 +36,7 @@ I have been using Java for about 6 years.
     - [HanbunBreaker-CraftBukkit](https://github.com/amata1219/HanbunBreaker-CraftBukkit)
     - [CustomID](https://github.com/amata1219/CustomID)
     <br/>
-- 所属サーバー
+- 所属サーバー / The servers I belonged to.
   - [アジ鯖](https://minecraft.jp/servers/azisaba.net) (2018/08 ~ 2019/01, 2019/06 ~ 2019/10, 2020/06 ~ 2021/01)
     - LeonGunWar (銃火器PvPサーバー)
       - [LGWAssist](https://github.com/amata1219/LGWAssist)
