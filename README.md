@@ -1,7 +1,10 @@
 MinecraftのSpigot/BungeeCordプラグインを製作しています。<br>
 Java歴は約6年になります。
 
-#### 実績
+I produce Spigot/BungeeCord plugins for Minecraft.<br>
+I have been using Java for about 6 years.
+
+#### 実績 / Past Work
 - プラグイン提供サーバー
   - [こころ軽やか！](https://minecraft.jp/servers/caloyaka.ddo.jp)
     - [WorldSystem](https://github.com/amata1219/WorldSystem)
@@ -62,8 +65,6 @@ Java歴は約6年になります。
     <br/>
 - [SpigotMC](https://www.spigotmc.org/)
   - KerisuteGomen ([Topic](https://www.spigotmc.org/resources/kerisutegomen-forge-mods-detection-liteloader-mods-detection-worlds-first-etc%E2%80%A6.60378/) / [GitHub](https://github.com/amata1219/KerisuteGomen))
-  - Fimbulwinter ([Topic](https://www.spigotmc.org/resources/fimbulwinter.89402/) / [GitHub](https://github.com/amata1219/Fimbulwinter))
-  - Bryionake ([Topic](https://www.spigotmc.org/resources/bryionake.89407/) / [GitHub](https://github.com/amata1219/Bryionake))
   <br/>
 - [Minecraft非公式日本ユーザーフォーラム (閉鎖につきアーカイブの方を記載)](https://web.archive.org/web/20181018213449/http://forum.minecraftuser.jp/viewforum.php?f=38)
   - LongPick+ ([Topic](https://forum.minecraftuser.xyz/viewtopic.php?f=38&t=33924) / [GitHub](https://github.com/amata1219/LongPickPlus))
