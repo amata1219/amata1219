@@ -65,6 +65,7 @@ I have been using Java for about 6 years.
     <br/>
 - [SpigotMC](https://www.spigotmc.org/)
   - KerisuteGomen ([Topic](https://www.spigotmc.org/resources/kerisutegomen-forge-mods-detection-liteloader-mods-detection-worlds-first-etc%E2%80%A6.60378/) / [GitHub](https://github.com/amata1219/KerisuteGomen))
+  - RedisPluginMessages ([Topic](https://www.spigotmc.org/resources/api-%E2%8F%A9-redispluginmessages-%E2%9C%85-easier-plugin-messaging-between-servers-%E2%AD%95-simple-messaging-system.101430/) / [GitHub](https://github.com/amata1219/RedisPluginMessages))
   <br/>
 - [Minecraft非公式日本ユーザーフォーラム (閉鎖につきアーカイブの方を記載)](https://web.archive.org/web/20181018213449/http://forum.minecraftuser.jp/viewforum.php?f=38)
   - LongPick+ ([Topic](https://forum.minecraftuser.xyz/viewtopic.php?f=38&t=33924) / [GitHub](https://github.com/amata1219/LongPickPlus))
