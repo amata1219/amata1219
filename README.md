@@ -63,10 +63,6 @@ I have been using Java for about 6 years.
   - [LeonGunWar](https://minecraft.jp/servers/leongunwar.ddo.jp) (2018/07 ~ 08)
     - [LGWAssist](https://github.com/amata1219/LGWAssist)
     <br/>
-- [SpigotMC](https://www.spigotmc.org/)
-  - KerisuteGomen ([Topic](https://www.spigotmc.org/resources/kerisutegomen-forge-mods-detection-liteloader-mods-detection-worlds-first-etc%E2%80%A6.60378/) / [GitHub](https://github.com/amata1219/KerisuteGomen))
-  - RedisPluginMessages ([Topic](https://www.spigotmc.org/resources/api-%E2%8F%A9-redispluginmessages-%E2%9C%85-easier-plugin-messaging-between-servers-%E2%AD%95-simple-messaging-system.101430/) / [GitHub](https://github.com/amata1219/RedisPluginMessages))
-  <br/>
 - [Minecraft非公式日本ユーザーフォーラム (閉鎖につきアーカイブの方を記載)](https://web.archive.org/web/20181018213449/http://forum.minecraftuser.jp/viewforum.php?f=38)
   - LongPick+ ([Topic](https://forum.minecraftuser.xyz/viewtopic.php?f=38&t=33924) / [GitHub](https://github.com/amata1219/LongPickPlus))
   - ItemCommands+ ([Topic](https://forum.minecraftuser.xyz/viewtopic.php?f=38&t=35479) / [GitHub](https://github.com/amata1219/ItemCommandsPlus))
@@ -75,3 +71,8 @@ I have been using Java for about 6 years.
   - DualSamurai ([Topic](https://github.com/amata1219/amata1219/blob/main/proof-1.png?raw=true) / [GitHub](https://github.com/amata1219/DualSamurai))
   - LoginInterphone ([Topic](https://github.com/amata1219/amata1219/blob/main/proof-2.png?raw=true) / [GitHub](https://github.com/amata1219/LoginInterphone))
   - KerisuteGomen ([Topic](https://web.archive.org/web/20190106035837/https://forum.minecraftuser.jp/viewtopic.php?f=38&t=36708) / [GitHub](https://github.com/amata1219/KerisuteGomen))
+  <br/>
+- [SpigotMC](https://www.spigotmc.org/)
+  - KerisuteGomen ([Topic](https://www.spigotmc.org/resources/kerisutegomen-forge-mods-detection-liteloader-mods-detection-worlds-first-etc%E2%80%A6.60378/) / [GitHub](https://github.com/amata1219/KerisuteGomen))
+  - RedisPluginMessages ([Topic](https://www.spigotmc.org/resources/api-%E2%8F%A9-redispluginmessages-%E2%9C%85-easier-plugin-messaging-between-servers-%E2%AD%95-simple-messaging-system.101430/) / [GitHub](https://github.com/amata1219/RedisPluginMessages))
+  - KarisomeBlock ([Topic](https://www.spigotmc.org/resources/karisome-block-%E2%8F%A9-simple-temporary-block-plugin-%E2%AD%95.101515/) / [GitHub](https://github.com/amata1219/KarisomeBlock))
