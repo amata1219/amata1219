@@ -1,11 +1,8 @@
 MinecraftのSpigot/BungeeCordプラグインを製作しています。<br>
 Java歴は約6年になります。
 
-I produce Spigot/BungeeCord plugins for Minecraft.<br>
-I have been using Java for about 6 years.
-
-#### 実績 / Past Work
-- プラグイン提供サーバー / The servers I provided the plugins for
+#### 実績
+- プラグイン提供サーバー
   - [こころ軽やか！](https://minecraft.jp/servers/caloyaka.ddo.jp)
     - [WorldSystem](https://github.com/amata1219/WorldSystem)
   - [まんまみーや](https://minecraft.jp/servers/manmamiya.work:14400)
@@ -36,7 +33,7 @@ I have been using Java for about 6 years.
     - [HanbunBreaker-CraftBukkit](https://github.com/amata1219/HanbunBreaker-CraftBukkit)
     - [CustomID](https://github.com/amata1219/CustomID)
     <br/>
-- 所属サーバー / The servers I belonged to.
+- 所属サーバー
   - [アジ鯖](https://minecraft.jp/servers/azisaba.net) (2018/08 ~ 2019/01, 2019/06 ~ 2019/10, 2020/06 ~ 2021/01)
     - LeonGunWar (銃火器PvPサーバー)
       - [LGWAssist](https://github.com/amata1219/LGWAssist)
@@ -47,8 +44,6 @@ I have been using Java for about 6 years.
       - [HyperingEconomyExtender](https://github.com/amata1219/HyperingEconomyExtender)
       - [HogochiByebye](https://github.com/amata1219/HogochiByebye)
       - [CollectorHands](https://github.com/amata1219/CollectorHands)
-    - Rise (アスレチックサーバー)
-      - [Parkour](https://github.com/amata1219/Parkour)
     - Life (生活サーバー)
       - [TemporaryBoat](https://github.com/amata1219/TemporaryBoat)
       - [MountingPhantomCanceler](https://github.com/amata1219/MountingPhantomCanceler)
