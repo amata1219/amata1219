@@ -1,4 +1,4 @@
-MinecraftのSpigot/BungeeCordプラグインを製作しています。<br>
+MinecraftのSpigot/BungeeCordプラグインを製作していました。<br>
 Java歴は約6年になります。
 
 #### 実績
