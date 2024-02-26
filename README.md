@@ -1,10 +1,10 @@
-主な成果物はSpigot/BungeeCordプラグインです。
+主な成果物はSpigot/BungeeCordプラグインとなっています。
 
 #### 実績
 - プラグイン提供サーバー
   - [こころ軽やか！](https://minecraft.jp/servers/caloyaka.ddo.jp)
     - [WorldSystem](https://github.com/amata1219/WorldSystem)
-  - [まんまみーや](https://minecraft.jp/servers/manmamiya.work:14400)
+  - [まんまみーや](https://minecraft.jp/servers/play.manmamiya.work:14400)
     - [WorldSystem](https://github.com/amata1219/WorldSystem)
     - [MamiyaAssist](https://github.com/amata1219/MamiyaAssist)
     - [CustomVersionName](https://github.com/amata1219/CustomVersionName)
@@ -58,10 +58,10 @@
     - [LGWAssist](https://github.com/amata1219/LGWAssist)
     <br/>
 - [Minecraft非公式日本ユーザーフォーラム (閉鎖につきアーカイブの方を記載)](https://web.archive.org/web/20181018213449/http://forum.minecraftuser.jp/viewforum.php?f=38)
-  - LongPick+ ([Topic](https://forum.minecraftuser.xyz/viewtopic.php?f=38&t=33924) / [GitHub](https://github.com/amata1219/LongPickPlus))
-  - ItemCommands+ ([Topic](https://forum.minecraftuser.xyz/viewtopic.php?f=38&t=35479) / [GitHub](https://github.com/amata1219/ItemCommandsPlus))
-  - FKeyCommands ([Topic](https://forum.minecraftuser.xyz/viewtopic.php?f=38&t=35560))
-  - Swimming+ ([Topic](https://forum.minecraftuser.xyz/viewtopic.php?f=38&t=35523))
+  - LongPick+ ([Topic](https://web.archive.org/web/20190715112707/https://forum.minecraftuser.jp/viewtopic.php?f=38&t=33924) / [GitHub](https://github.com/amata1219/LongPickPlus))
+  - ItemCommands+ ([Topic](https://web.archive.org/web/20190715112807/https://forum.minecraftuser.jp/viewtopic.php?f=38&t=35479) / [GitHub](https://github.com/amata1219/ItemCommandsPlus))
+  - FKeyCommands ([Topic](https://web.archive.org/web/20190715112704/https://forum.minecraftuser.jp/viewtopic.php?f=38&t=35560))
+  - Swimming+ ([Topic](https://web.archive.org/web/20190715112733/https://forum.minecraftuser.jp/viewtopic.php?f=38&t=35523))
   - DualSamurai ([Topic](https://github.com/amata1219/amata1219/blob/main/proof-1.png?raw=true) / [GitHub](https://github.com/amata1219/DualSamurai))
   - LoginInterphone ([Topic](https://github.com/amata1219/amata1219/blob/main/proof-2.png?raw=true) / [GitHub](https://github.com/amata1219/LoginInterphone))
   - KerisuteGomen ([Topic](https://web.archive.org/web/20190106035837/https://forum.minecraftuser.jp/viewtopic.php?f=38&t=36708) / [GitHub](https://github.com/amata1219/KerisuteGomen))
