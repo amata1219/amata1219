@@ -1,4 +1,4 @@
-成果物はMinecraftのSpigot/BungeeCordプラグインが主となっています。
+主な成果物はSpigot/BungeeCordプラグインです。
 
 #### 実績
 - プラグイン提供サーバー
