@@ -1,4 +1,8 @@
-主な成果物はJava(一部 Kotlin, Scala)で書かれたMinecraft Spigot/BungeeCordプラグインと、UGCプラットフォームのAPI(Rust)、UI(Svelte + TypeScript)です。
+主な成果物は、
+- Minecraft Spigot/BungeeCordプラグイン(Java, 一部 Kotlin, Scala)
+- UGCプラットフォームのAPI(Rust)、UI(Svelte + TypeScript)
+
+です。
 
 ### 実績
 
