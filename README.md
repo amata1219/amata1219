@@ -1,6 +1,12 @@
-主な成果物はSpigot/BungeeCordプラグインです。
+主な成果物はJava(Kotlin, Scala)で書かれたMinecraft Spigot/BungeeCordプラグインと、開発中のUGCプラットフォームのRustで書かれたAPI、Svelte + TypeScriptで書かれたUIです。
 
-#### 実績
+### 実績
+
+#### UGCプラットフォーム(開発中)
+- [netmate-api](https://github.com/netmateapp/netmate-api)
+- [netmate-frontend](https://github.com/netmateapp/netmate-frontend)
+
+#### Minecraft Spigot/BungeeCordプラグイン
 - プラグイン提供サーバー
   - [こころ軽やか！](https://minecraft.jp/servers/caloyaka.ddo.jp)
     - [WorldSystem](https://github.com/amata1219/WorldSystem)
