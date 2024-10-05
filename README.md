@@ -59,11 +59,13 @@
       - [RedisPluginMessages](https://github.com/amata1219/RedisPluginMessages)
       - [Ressentiment](https://github.com/amata1219/Ressentiment)
     - Lobby (ロビーサーバー)
-      - [Walkure](https://github.com/amata1219/Walkure)
+      - Walkure ([MyRepo](https://github.com/amata1219/Walkure) / [AziRepo](https://github.com/AzisabaNetwork/Walkure))
     - BungeeCord
       - [Broadcast](https://github.com/amata1219/Broadcast)
     - プラグイン製作講座
       - [TabCustomizer](https://github.com/amata1219/TabCustomizer)
+    - 他
+      - Parkour ([MyRepo](https://github.com/amata1219/Parkour) / [AziRepo](https://github.com/AzisabaNetwork/Parkour))
   - [LeonGunWar](https://minecraft.jp/servers/leongunwar.ddo.jp) (2018/07 ~ 08)
     - [LGWAssist](https://github.com/amata1219/LGWAssist)
     <br/>
