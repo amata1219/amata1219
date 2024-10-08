@@ -16,6 +16,7 @@
     - [WorldSystem](https://github.com/amata1219/WorldSystem)
   - [まんまみーや](https://minecraft.jp/servers/play.manmamiya.work:14400)
     - [WorldSystem](https://github.com/amata1219/WorldSystem)
+    - [ItemCommands+](https://github.com/amata1219/ItemCommandsPlus)
     - [MamiyaAssist](https://github.com/amata1219/MamiyaAssist)
     - [CustomVersionName](https://github.com/amata1219/CustomVersionName)
     - [MamiyaChat](https://github.com/amata1219/MamiyaChat)
