@@ -36,7 +36,7 @@
   - そのほか個人サーバー / Other private servers
     - [CancelDrop](https://github.com/amata1219/CancelDrop)
     - [CancelMan](https://github.com/amata1219/CancelMan)
-    - [CantUse](https://github.com/amata1219/CantUse)
+    - CantUse ([Tweet](https://x.com/amata1219/status/1043693765729312768) / [GitHub](https://github.com/amata1219/CantUse))
     - [AutoMessage](https://github.com/amata1219/AutoMessage)
     - [CustomSpawn](https://github.com/amata1219/CustomSpawn)
     - HanbunBreaker-1.7.10(調整版) ([Tweet](https://x.com/amata1219/status/1040313243619614720) / [GitHub](https://github.com/amata1219/HanbunBreaker-1.7.10))
