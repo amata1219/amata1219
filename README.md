@@ -85,6 +85,7 @@
 - [Twitter](https://twitter.com)
   - HanbunBreaker-1.7.10 ([Tweet](https://x.com/amata1219/status/1040217545809092608) / [GitHub](https://github.com/amata1219/HanbunBreaker-1.7.10))
   - HanbunBreaker ([Tweet](https://x.com/amata1219/status/1113390002791112704) / [GitHub](https://github.com/amata1219/HanbunBreaker))
+  - BlockInfo ([Tweet](https://x.com/amata1219/status/1113768520028786688))
   - Xeflection ([Tweet](https://x.com/amata1219/status/1302429614824853505) / [GitHub](https://github.com/amata1219/Xeflection))
   - RedpowerDetector ([Tweet](https://x.com/amata1219/status/1305061690535337985) / [GitHub](https://github.com/amata1219/RedpowerDetector))
   - PacketizedTextTranslator ([Tweet](https://x.com/amata1219/status/1307623472047075328) / [GitHub](https://github.com/amata1219/PacketizedTextTranslator))
