@@ -78,6 +78,10 @@
   - LoginInterphone ([Topic](https://github.com/amata1219/amata1219/blob/main/proof-2.png?raw=true) / [GitHub](https://github.com/amata1219/LoginInterphone))
   - KerisuteGomen ([Topic](https://web.archive.org/web/20190106035837/https://forum.minecraftuser.jp/viewtopic.php?f=38&t=36708) / [GitHub](https://github.com/amata1219/KerisuteGomen))
   <br/>
+- [Twitter](https://twitter.com)
+  - [RedpowerDetector]([Tweet](https://x.com/amata1219/status/1305061690535337985) / [GitHub](https://github.com/amata1219/RedpowerDetector))
+  - [PacketizedTextTranslator]([Tweet](https://x.com/amata1219/status/1307623472047075328) / [GitHub](https://github.com/amata1219/PacketizedTextTranslator))
+  <br />
 - [SpigotMC](https://www.spigotmc.org/)
   - KerisuteGomen ([Topic](https://www.spigotmc.org/resources/kerisutegomen-forge-mods-detection-liteloader-mods-detection-worlds-first-etc%E2%80%A6.60378/) / [GitHub](https://github.com/amata1219/KerisuteGomen))
   - RedisPluginMessages ([Topic](https://www.spigotmc.org/resources/api-%E2%8F%A9-redispluginmessages-%E2%9C%85-easier-plugin-messaging-between-servers-%E2%AD%95-simple-messaging-system.101430/) / [GitHub](https://github.com/amata1219/RedisPluginMessages))
