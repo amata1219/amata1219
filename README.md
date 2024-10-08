@@ -40,7 +40,8 @@
     - [AutoMessage](https://github.com/amata1219/AutoMessage)
     - [CustomSpawn](https://github.com/amata1219/CustomSpawn)
     - [HanbunBreaker-CraftBukkit](https://github.com/amata1219/HanbunBreaker-CraftBukkit)
-    - [CustomID](https://github.com/amata1219/CustomID)
+    - CustomID ([Tweet](https://x.com/amata1219/status/1037030291078926336) / [GitHub](https://github.com/amata1219/CustomID))
+    - CustomId(調整版) ([Tweet](https://x.com/amata1219/status/1039931734106619904))
     <br/>
 - 所属サーバー
   - [アジ鯖](https://minecraft.jp/servers/azisaba.net) (2018/08 ~ 2019/01, 2019/06 ~ 2019/10, 2020/06 ~ 2021/01)
