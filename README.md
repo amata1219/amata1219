@@ -34,7 +34,7 @@
     - Lectern ([Tweet](https://x.com/amata1219/status/1119929427364700161) / [GitHub](https://github.com/amata1219/Lectern))
   - [MoyashiGunsNetwork](https://twitter.com/intent/user?screen_name=MasMoyashi)
     - [InfinityDurability](https://github.com/amata1219/InfinityDurability)
-  - そのほか個人サーバー / Other private servers
+  - 個人への提供
     - [CancelDrop](https://github.com/amata1219/CancelDrop)
     - [CancelMan](https://github.com/amata1219/CancelMan)
     - CantUse ([Tweet](https://x.com/amata1219/status/1043693765729312768) / [GitHub](https://github.com/amata1219/CantUse))
