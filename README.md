@@ -81,6 +81,7 @@
   - DualSamurai ([Topic](https://github.com/amata1219/amata1219/blob/main/proof-1.png?raw=true) / [GitHub](https://github.com/amata1219/DualSamurai))
   - LoginInterphone ([Topic](https://github.com/amata1219/amata1219/blob/main/proof-2.png?raw=true) / [GitHub](https://github.com/amata1219/LoginInterphone))
   - KerisuteGomen ([Topic](https://web.archive.org/web/20190106035837/https://forum.minecraftuser.jp/viewtopic.php?f=38&t=36708) / [GitHub](https://github.com/amata1219/KerisuteGomen))
+  - SpawnPointFixer ([Topic](https://forum.minecraftuser.jp/viewtopic.php?f=38&t=11378&p=322821#p322821) / [GitHub](https://github.com/amata1219/SpawnPointFixer))
   - HanbunBreaker(再配布) ([Topic](https://x.com/amata1219/status/1077039608272105473) / [GitHub(1.7.10)](https://github.com/amata1219/HanbunBreaker-1.7.10) / [GitHub(CraftBukkit)](https://github.com/amata1219/HanbunBreaker-CraftBukkit))
   <br/>
 - [Twitter](https://twitter.com)
