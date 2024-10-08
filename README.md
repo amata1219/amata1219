@@ -46,8 +46,10 @@
     - CustomID(調整版) ([Tweet](https://x.com/amata1219/status/1039931734106619904))
     <br/>
 - 所属サーバー
+  - [LeonGunWar (合併前)](https://minecraft.jp/servers/leongunwar.ddo.jp) (2018/07 ~ 08)
+    - [LGWAssist](https://github.com/amata1219/LGWAssist)
   - [アジ鯖](https://minecraft.jp/servers/azisaba.net) (2018/08 ~ 2019/01, 2019/06 ~ 2019/10, 2020/06 ~ 2021/01)
-    - LeonGunWar (銃火器PvPサーバー)
+    - LeonGunWar (合併後) (銃火器PvPサーバー)
       - [LGWAssist](https://github.com/amata1219/LGWAssist)
       - [KerisuteGomen](https://github.com/amata1219/KerisuteGomen)
     - Main (生活サーバー)
@@ -70,8 +72,6 @@
     - 他
       - Parkour ([MyRepo](https://github.com/amata1219/Parkour) / [AziRepo](https://github.com/AzisabaNetwork/Parkour))
       - [CraftGuard](https://github.com/amata1219/CraftGuard)
-  - [LeonGunWar](https://minecraft.jp/servers/leongunwar.ddo.jp) (2018/07 ~ 08)
-    - [LGWAssist](https://github.com/amata1219/LGWAssist)
     <br/>
 - [Minecraft非公式日本ユーザーフォーラム (閉鎖につきアーカイブの方を記載)](https://web.archive.org/web/20181018213449/http://forum.minecraftuser.jp/viewforum.php?f=38)
   - LongPick+ ([Topic](https://web.archive.org/web/20190715112707/https://forum.minecraftuser.jp/viewtopic.php?f=38&t=33924) / [GitHub](https://github.com/amata1219/LongPickPlus))
