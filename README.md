@@ -1,6 +1,6 @@
 主な成果物は、
 - Minecraft Spigot/BungeeCordプラグイン(Java, 一部 Kotlin, Scala)
-- UGCプラットフォームのAPI(Rust)、UI(Svelte + TypeScript)
+- UGCプラットフォームのAPI(Rust)、UI(Figma)、フロントエンド(Svelte + TypeScript)
 
 です。
 
@@ -8,6 +8,7 @@
 
 #### UGCプラットフォーム(開発中)
 - [netmate-api](https://github.com/netmateapp/netmate-api)
+- [netmate-ui](https://github.com/netmateapp/netmate-ui)
 - [netmate-frontend](https://github.com/netmateapp/netmate-frontend)
 
 #### Minecraft Spigot/BungeeCordプラグイン
