@@ -63,7 +63,7 @@
     - Life (生活サーバー)
       - [TemporaryBoat](https://github.com/amata1219/TemporaryBoat)
       - [MountingPhantomCanceler](https://github.com/amata1219/MountingPhantomCanceler)
-      - [RedisPluginMessages](https://github.com/amata1219/RedisPluginMessages)
+      - [DeprecatedRedisPluginMessages](https://github.com/amata1219/DeprecatedRedisPluginMessages)
       - [Ressentiment](https://github.com/amata1219/Ressentiment)
     - Lobby (ロビーサーバー)
       - Walkure ([MyRepo](https://github.com/amata1219/Walkure) / [AziRepo](https://github.com/AzisabaNetwork/Walkure))
