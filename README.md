@@ -60,6 +60,9 @@
       - [HyperingEconomyExtender](https://github.com/amata1219/HyperingEconomyExtender)
       - [HogochiByebye](https://github.com/amata1219/HogochiByebye)
       - [CollectorHands](https://github.com/amata1219/CollectorHands)
+    - Rise (アスレサーバー)
+      - Parkour ([MyRepo](https://github.com/amata1219/Parkour) / [AziRepo](https://github.com/AzisabaNetwork/Parkour))
+      - [AdvancementAPI](https://github.com/amata1219/AdvancementAPI)
     - Life (生活サーバー)
       - [TemporaryBoat](https://github.com/amata1219/TemporaryBoat)
       - [MountingPhantomCanceler](https://github.com/amata1219/MountingPhantomCanceler)
@@ -71,9 +74,6 @@
       - [Broadcast](https://github.com/amata1219/Broadcast)
     - プラグイン製作講座
       - [TabCustomizer](https://github.com/amata1219/TabCustomizer)
-    - 他
-      - Parkour ([MyRepo](https://github.com/amata1219/Parkour) / [AziRepo](https://github.com/AzisabaNetwork/Parkour))
-      - [CraftGuard](https://github.com/amata1219/CraftGuard)
     <br/>
 - [Minecraft非公式日本ユーザーフォーラム (閉鎖につきアーカイブの方を記載)](https://web.archive.org/web/20181018213449/http://forum.minecraftuser.jp/viewforum.php?f=38)
   - LongPick+ ([Topic](https://web.archive.org/web/20190715112707/https://forum.minecraftuser.jp/viewtopic.php?f=38&t=33924) / [GitHub](https://github.com/amata1219/LongPickPlus))
