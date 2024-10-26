@@ -35,6 +35,8 @@
     - [Like](https://github.com/amata1219/Like)
     - [HanbunBreaker](https://github.com/amata1219/HanbunBreaker)
     - Lectern ([Tweet](https://x.com/amata1219/status/1119929427364700161) / [GitHub](https://github.com/amata1219/Lectern))
+  - [C.U.W Server(くぅ鯖)](https://minecraft.jp/servers/cuw.aa0.netvolante.jp)
+    - [Like](https://github.com/amata1219/Like)
   - [MoyashiGunsNetwork](https://twitter.com/intent/user?screen_name=MasMoyashi)
     - [InfinityDurability](https://github.com/amata1219/InfinityDurability)
   - 個人への提供
